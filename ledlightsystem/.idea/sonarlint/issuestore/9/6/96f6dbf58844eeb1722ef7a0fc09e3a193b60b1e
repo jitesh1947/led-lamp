@@ -1,0 +1,18 @@
+
+V
+squid:S106#"9Replace this use of System.out or System.err by a logger.(¬ϊ†8Ψοτ—/
+^squid:S1854(";Remove this useless assignment to local variable "counter".(§γμ”ύÿÿÿÿ8ί§―/
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(°–’Ίώÿÿÿÿ8Π‹/
+ksquid:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ΪΔ‰ώÿÿÿÿ8ΨιΙ/
+V
+squid:S1064"9Replace this use of System.out or System.err by a logger.(¬ϊ†8Ψοτ—/
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ΗϋΒ±8¬Τ–/
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¬ϊ†8Ψοτ—/
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ηµν‘8Ò°/
+U
+squid:S106*"9Replace this use of System.out or System.err by a logger.(Έύ`8Ψοτ—/
+V
+squid:S1067"9Replace this use of System.out or System.err by a logger.(Ζΐϋύ8Ψοτ—/

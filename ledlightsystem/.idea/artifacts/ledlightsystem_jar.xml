@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ledlightsystem:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ledlightsystem_jar</output-path>
+    <root id="archive" name="ledlightsystem.jar">
+      <element id="module-output" name="ledlightsystem" />
+    </root>
+  </artifact>
+</component>
